@@ -1,0 +1,6 @@
+git add .
+git commit -m 'message'
+git push
+git branch <branch name>
+git checkout <branch name>
+git pust --set-upstream origin <name of branch>
